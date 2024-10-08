@@ -1,6 +1,6 @@
 
 
-##The Rising Sun
+#The Rising Sun
 
 A new dawn breaks with golden light,  
 Chasing away the quiet night.  
